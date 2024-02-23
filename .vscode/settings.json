@@ -1,3 +1,6 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "accessibility.verbosity.inlineChat": false,
+    "inlineChat.acceptedOrDiscardBeforeSave": false,
+    "inlineChat.holdToSpeech": false
 }
