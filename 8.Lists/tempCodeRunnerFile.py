@@ -1,1 +1,7 @@
-b.sort(reverse=True)
+print([0] * 10)
+# print(a + 3)
+# print(a * b)
+# print(a - b)
+# print(a / b)
+# print(a / 3)
+# print(a - 9)
