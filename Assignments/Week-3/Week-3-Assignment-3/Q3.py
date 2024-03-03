@@ -8,3 +8,13 @@ for i in range(len(my_list)):
     if my_list[i] % 5 == 0:
         count += 1
 print(f"Total count numbers divisible by 5 in the list is: {count}")
+
+# Alternate way:
+"""
+count = 0
+for num in my_list:
+    if num % 5 == 0:
+        count += 1
+print(count)
+
+"""
