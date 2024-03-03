@@ -1,7 +1,3 @@
-print([0] * 10)
-# print(a + 3)
-# print(a * b)
-# print(a - b)
-# print(a / b)
-# print(a / 3)
-# print(a - 9)
+# Reverse
+for i in range(len(a) - 1, -1, -1):
+    print(a[i], end=" ")
